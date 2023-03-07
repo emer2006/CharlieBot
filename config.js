@@ -9,21 +9,21 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['51932979932', '@emx._xit', true],
-  ['51955095498', '@ffxryu.18', true],
-  ['51955095498', '@ffxryu.18', true],
-  ['51955095498', '@ffxryu.18', true],
-  ['51955095498', '@ffxryu.18', true],
-  ['51955095498', '@ffxryu.18', true],
-  ['51955095498', '@ffxryu.18', true],  
-  ['51955095498', '@ffxryu.18', true],	
-  ['51955095498'],
-  ['51955095498'],
-  ['51955095498'],	
-  ['51955095498']
+  ['51932979932', '@emx._xit', true],
+  ['51932979932', '@emx._xit', true],
+  ['51932979932', '@emx._xit', true],
+  ['51932979932', '@emx._xit', true],
+  ['51932979932', '@emx._xit', true],
+  ['51932979932', '@emx._xit', true],  
+  ['51932979932', '@emx._xit', true],	
+  ['51932979932'],
+  ['51932979932'],
+  ['51932979932'],	
+  ['51932979932']
 ] 
 
-global.suittag = ['51955095498'] 
-global.prems = ['51955095498'] 
+global.suittag = ['51932979932'] 
+global.prems = ['51932979932'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '@emx._xit'
