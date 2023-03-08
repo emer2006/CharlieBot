@@ -30,7 +30,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/jairgonzales3/RYUBOT-MD2 && cd RYUBOT-MD2
+git clone https://github.com/jairgonzales3/CharlieBot-MD2 && cd CharlieBot-MD2
 ```
 
 ```bash
