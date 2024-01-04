@@ -9,8 +9,8 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['51932979932', '@emx._xit', true],
-  ['51932979932', '@emx._xit', true],
-  ['51932979932', '@emx._xit', true],
+  ['51955095498', 'Richetti', true],
+  ['51933348947', 'Richetti2', true],
   ['51932979932', '@emx._xit', true],
   ['51932979932', '@emx._xit', true],
   ['51932979932', '@emx._xit', true],
